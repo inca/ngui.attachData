@@ -1,0 +1,23 @@
+{
+  "name": "ngui-attachData",
+  "version": "0.0.1",
+  "authors": [
+    "Boris Okunskiy <boris@okunskiy.name>"
+  ],
+  "description": "Angular for attaching server-rendered data to $rootScope",
+  "main": "ngui.attachData.js",
+  "keywords": [
+    "angular",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".idea",
+    "*.iml",
+    "test",
+    "tests"
+  ]
+}
